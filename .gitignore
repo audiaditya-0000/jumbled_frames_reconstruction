@@ -206,6 +206,5 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-frame_folder/*
-!frame_folder/.gitkeep
+*.jpg
 reconstructed_video.mp4
