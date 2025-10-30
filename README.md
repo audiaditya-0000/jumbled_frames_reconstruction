@@ -63,3 +63,11 @@ System specs
 - RAM: 16 GB
 - OS: Windows 10 (64 bit)
 - Python: 3.11
+
+## Expected Output
+Once you run the main script, you will see two output videos (because result may be reversed sometimes)
+
+### Output
+frames extracted
+Video reconstructed and saved to 'data/reconstructed_video.mp4'
+video reversed successfully and saved to 'data/reconstructed_reversed.mp4'
