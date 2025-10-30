@@ -68,6 +68,6 @@ System specs
 Once you run the main script, you will see two output videos (because result may be reversed sometimes)
 
 ### Output
-frames extracted
-Video reconstructed and saved to 'data/reconstructed_video.mp4'
-video reversed successfully and saved to 'data/reconstructed_reversed.mp4'
+frames extracted  
+Video reconstructed and saved to 'data/reconstructed_video.mp4'  
+video reversed successfully and saved to 'data/reconstructed_reversed.mp4'  
