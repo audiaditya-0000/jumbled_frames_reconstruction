@@ -43,16 +43,16 @@ Since the direction of ordering might be reversed (depending on the starting fra
 pip install numpy opencv-python scikit-image
 
 ### To run
-Create the folder to hold frames under data folder, name it
+Create the folder to hold frames under data folder, name it  
 frame_folder
 
-Place the jumbled video at
+Place the jumbled video at  
 data/jumbled_video.mp4
 
-Move into project folder
+Move into project folder  
 cd jumbled_frames_reconstruction
 
-Run the main script
+Run the main script  
 python src/main.py
 
 ## Execution Time Log
